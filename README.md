@@ -17,6 +17,13 @@ The dataset contains the following features:
 - alcohol
 - quality (target variable)
 
+# Library Packages
+
+- pandas
+- scikit-learn
+- numpy
+- matplotlib
+
 # Implementation
 The key steps involved in the implementation are:
 
